@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -88,14 +88,6 @@ key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -115,6 +107,14 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.lockBuilding:37
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.keybind.toggleAutojump:48
 key_key.toggle_shaders:0
 key_key.betterquesting.quests:41
@@ -169,9 +169,14 @@ key_key.cycleAttackAOE:0
 key_key.toggleShields:0
 key_key.overload:33:SHIFT
 key_key.clipboardPaste:210
+key_ALT Menu:56
+key_Mode Switch:50
+key_Fly key:33
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
 key_key.categories.naming:49
+key_jecalculation.key.gui_craft:0
+key_jecalculation.key.gui_math:0
 key_mekanism.key.mode:50
 key_mekanism.key.armorMode:34
 key_mekanism.key.feetMode:35
@@ -213,7 +218,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

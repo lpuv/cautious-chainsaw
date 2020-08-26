@@ -1,6 +1,6 @@
 
 {
-  "ID": 114,
+  "ID": 115,
   "Name": "Magical Forest",
   "Resource Location": "thaumcraft:magical_forest",
   "Class": "thaumcraft.common.world.biomes.BiomeGenMagicalForest",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "MAGICAL"
+    "MAGICAL",
+    "FOREST"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [

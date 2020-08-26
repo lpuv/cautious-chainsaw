@@ -1,6 +1,6 @@
 
 {
-  "ID": 136,
+  "ID": 137,
   "Name": "VolcanicBarren",
   "Resource Location": "advancedrocketry:volcanicbarren",
   "Class": "zmaster587.advancedRocketry.world.biome.BiomeGenBarrenVolcanic",
@@ -20,10 +20,10 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WASTELAND",
+    "HOT",
     "DRY",
     "MOUNTAIN",
-    "HOT"
+    "WASTELAND"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
