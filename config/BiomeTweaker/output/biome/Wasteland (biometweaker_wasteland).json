@@ -1,6 +1,6 @@
 
 {
-  "ID": 138,
+  "ID": 58,
   "Name": "Wasteland",
   "Resource Location": "biometweaker:wasteland",
   "Class": "net.minecraft.world.biome.BiomeSavanna",
@@ -20,10 +20,10 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
+    "PLAINS",
     "HOT",
-    "SPARSE",
     "SAVANNA",
-    "PLAINS"
+    "SPARSE"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -168,50 +168,5 @@
     }
   ],
   "Spawn Biome": true,
-  "Tweaked": true,
-  "BOP Generators": {
-    "FLOWERS Generators": [
-      {
-        "ID": "flora",
-        "Name": "glowshrooms"
-      },
-      {
-        "ID": "flora",
-        "Name": "miners_delight"
-      },
-      {
-        "ID": "flora",
-        "Name": "roots"
-      }
-    ]
-  },
-  "BOP Owner": "OTHER",
-  "BOP Weight Map": {},
-  "BOP Climate Weights": {
-    "BOREAL": [
-      50000
-    ],
-    "COLD_SWAMP": [
-      50000
-    ],
-    "WET_TEMPERATE": [
-      50000
-    ],
-    "DRY_TEMPERATE": [
-      50000
-    ],
-    "COOL_TEMPERATE": [
-      50000
-    ],
-    "WARM_TEMPERATE": [
-      50000
-    ],
-    "HOT_SWAMP": [
-      50000
-    ],
-    "MEDITERANEAN": [
-      50000
-    ]
-  },
-  "BOP Island Weight": 0
+  "Tweaked": true
 }

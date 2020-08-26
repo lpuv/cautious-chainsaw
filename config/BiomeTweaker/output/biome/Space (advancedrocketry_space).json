@@ -1,6 +1,6 @@
 
 {
-  "ID": 122,
+  "ID": 49,
   "Name": "Space",
   "Resource Location": "advancedrocketry:space",
   "Class": "zmaster587.advancedRocketry.world.biome.BiomeGenSpace",
@@ -116,25 +116,5 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
-  "BOP Generators": {
-    "FLOWERS Generators": [
-      {
-        "ID": "flora",
-        "Name": "glowshrooms"
-      },
-      {
-        "ID": "flora",
-        "Name": "miners_delight"
-      },
-      {
-        "ID": "flora",
-        "Name": "roots"
-      }
-    ]
-  },
-  "BOP Owner": "OTHER",
-  "BOP Weight Map": {},
-  "BOP Climate Weights": {},
-  "BOP Island Weight": 0
+  "Tweaked": false
 }

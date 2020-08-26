@@ -1,6 +1,6 @@
 
 {
-  "ID": 113,
+  "ID": 40,
   "Name": "A mod doesn\u0027t support extended biome IDs -- report to JEID",
   "Resource Location": "jeid:error_biome",
   "Class": "net.minecraft.world.biome.BiomeVoid",
@@ -28,25 +28,5 @@
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [],
   "Spawn Biome": false,
-  "Tweaked": false,
-  "BOP Generators": {
-    "FLOWERS Generators": [
-      {
-        "ID": "flora",
-        "Name": "glowshrooms"
-      },
-      {
-        "ID": "flora",
-        "Name": "miners_delight"
-      },
-      {
-        "ID": "flora",
-        "Name": "roots"
-      }
-    ]
-  },
-  "BOP Owner": "OTHER",
-  "BOP Weight Map": {},
-  "BOP Climate Weights": {},
-  "BOP Island Weight": 0
+  "Tweaked": false
 }

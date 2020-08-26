@@ -1,6 +1,6 @@
 
 {
-  "ID": 117,
+  "ID": 44,
   "Name": "Outer Lands",
   "Resource Location": "thaumcraft:eldritch",
   "Class": "thaumcraft.common.world.biomes.BiomeGenEldritch",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "END",
     "MAGICAL",
+    "END",
     "SPOOKY"
   ],
   "BiomeManager Entries": {},
@@ -49,25 +49,5 @@
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [],
   "Spawn Biome": false,
-  "Tweaked": false,
-  "BOP Generators": {
-    "FLOWERS Generators": [
-      {
-        "ID": "flora",
-        "Name": "glowshrooms"
-      },
-      {
-        "ID": "flora",
-        "Name": "miners_delight"
-      },
-      {
-        "ID": "flora",
-        "Name": "roots"
-      }
-    ]
-  },
-  "BOP Owner": "OTHER",
-  "BOP Weight Map": {},
-  "BOP Climate Weights": {},
-  "BOP Island Weight": 0
+  "Tweaked": false
 }
