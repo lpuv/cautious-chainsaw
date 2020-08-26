@@ -28,6 +28,7 @@
                 <fogColor>1,1,1</fogColor>
                 <skyColor>1,0.5,0.5</skyColor>
                 <atmosphereDensity>100</atmosphereDensity>
+                <fillerBlock>minecraft:stone</fillerBlock>
                 <gravitationalMultiplier>100</gravitationalMultiplier>
                 <orbitalDistance>150</orbitalDistance>
                 <orbitalTheta>190</orbitalTheta>
