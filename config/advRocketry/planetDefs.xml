@@ -31,7 +31,7 @@
                 <gravitationalMultiplier>100</gravitationalMultiplier>
                 <orbitalDistance>150</orbitalDistance>
                 <orbitalTheta>190</orbitalTheta>
-                <rotationalPeriod>100</rotationalPeriod>
+                <rotationalPeriod>2400</rotationalPeriod>
             </planet>
         </planet>
     </star>
