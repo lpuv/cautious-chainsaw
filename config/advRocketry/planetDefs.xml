@@ -1,5 +1,5 @@
 <galaxy>
-    <star name="Sol" temp="100" x="0" y="0" numPlanets="10" numGasGiants="1">
+    <star name="Helios" temp="100" x="0" y="0" numPlanets="10" numGasGiants="1">
         <planet name="G7535" DIMID="52" dimMapping="-1">
             <fogColor>1,1,1</fogColor>
             <skyColor>0,0,1</skyColor>
@@ -8,16 +8,22 @@
             <rotationalPeriod>24000</rotationalPeriod>
             <biomeIds>1</biomeIds>
         </planet>
+        <planet name="Q7198" DIMID="53" dimMapping="7">
+            <fogColor>1,1,1</fogColor>
+            <skyColor>0,0,1</skyColor>
+            <orbitalDistance>30</orbitalDistance>
+            <orbitalTheta>180</orbitalTheta>
+            <rotationalPeriod>2400</rotationalPeriod>
+        </planet>
         <planet name="B87Z3">
             <fogColor>1,1,1</fogColor>
             <skyColor>0,0,1</skyColor>
             <GasGiant>true</GasGiant>
             <atmosphereDensity>100</atmosphereDensity>
             <gravitationalMultiplier>100</gravitationalMultiplier>
-            <orbitalDistance>1000</orbitalDistance>
+            <orbitalDistance>500</orbitalDistance>
             <orbitalTheta>180</orbitalTheta>
             <rotationalPeriod>24000</rotationalPeriod>
-            <biomeIds>0</biomeIds>
             <planet name="H7845" DIMID="51">
                 <fogColor>1,1,1</fogColor>
                 <skyColor>1,0.5,0.5</skyColor>
@@ -26,7 +32,6 @@
                 <orbitalDistance>150</orbitalDistance>
                 <orbitalTheta>190</orbitalTheta>
                 <rotationalPeriod>100</rotationalPeriod>
-                <biomeIds>94</biomeIds>
             </planet>
         </planet>
     </star>
