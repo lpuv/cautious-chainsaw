@@ -10,3 +10,5 @@ config/BiomeTweaker/output
 screenshots
 config.json
 OpenComputersMod-1.7.5.192-lua53-native.64.so
+config/jei/
+thaumicjei_itemstack_aspects.json
