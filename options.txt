@@ -88,6 +88,7 @@ key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
+key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -106,7 +107,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:48
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -115,7 +116,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.keybind.toggleAutojump:48
 key_key.toggle_shaders:0
 key_key.betterquesting.quests:41
 key_bloodmagic.keybind.open_holding:35
@@ -201,7 +201,7 @@ key_enderio.keybind.inventory:23
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:34
 key_enderio.keybind.soundlocator:0
-key_enderio.keybind.nightvision:25
+key_enderio.keybind.nightvision:184
 key_enderio.keybind.gogglesofrevealing:0
 key_enderio.keybind.stepassist:0
 key_enderio.keybind.speed:0
